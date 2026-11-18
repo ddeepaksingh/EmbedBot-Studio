@@ -6,7 +6,8 @@ from openai import OpenAI
 
 client = OpenAI(
   base_url = "https://integrate.api.nvidia.com/v1",
-  api_key = "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"
+  api_key = key
+  
 )
 
 
